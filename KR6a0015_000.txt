@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 帝釋所問經
+#+DATE: 2015-08-30 19:28:06.171290
+#+PROPERTY: JUAN 0
